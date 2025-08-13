@@ -16,7 +16,7 @@
   - Others: person
 # RESULTS
  - # YOLO V12 
-    ![Screenshot 2](Screenshot%202025-08-13%20163500.png)
+    ![Screenshot](Screenshot%202025-08-13%20162918.png)
 
  - # RFDETR
     ![Screenshot 1](Screenshot%202025-08-13%20162943.png)
