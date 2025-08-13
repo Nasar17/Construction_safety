@@ -16,9 +16,11 @@
   - Others: person
 # RESULTS
  - # YOLO V12 
+    ![Screenshot 2](Screenshot%202025-08-13%20163500.png)
 
  - # RFDETR
-
+    ![Screenshot 1](Screenshot%202025-08-13%20162943.png)
+   
 # CONCLUSION
  Considering the total detection performance, training scalability, and inference speed, YOLOv12was selected as the final model for integration into the video-based safety monitoring pipeline. 
  RFDETR, while competitive in some areas, was found to be less optimal under the practical constraints of deployment on dynamic construction sites.
